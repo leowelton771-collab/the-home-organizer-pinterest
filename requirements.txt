@@ -1,0 +1,3 @@
+# Only requests is needed, and only for the multipart S3 video upload.
+# All other API calls use Python's standard library (urllib).
+requests>=2.31
